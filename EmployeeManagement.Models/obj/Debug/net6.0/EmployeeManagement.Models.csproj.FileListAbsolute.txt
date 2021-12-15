@@ -1,0 +1,11 @@
+G:\Training Projects\EmployeeManagment-Blazor\EmployeeManagement.Models\bin\Debug\net6.0\EmployeeManagement.Models.deps.json
+G:\Training Projects\EmployeeManagment-Blazor\EmployeeManagement.Models\bin\Debug\net6.0\EmployeeManagement.Models.dll
+G:\Training Projects\EmployeeManagment-Blazor\EmployeeManagement.Models\bin\Debug\net6.0\ref\EmployeeManagement.Models.dll
+G:\Training Projects\EmployeeManagment-Blazor\EmployeeManagement.Models\bin\Debug\net6.0\EmployeeManagement.Models.pdb
+G:\Training Projects\EmployeeManagment-Blazor\EmployeeManagement.Models\obj\Debug\net6.0\EmployeeManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\Training Projects\EmployeeManagment-Blazor\EmployeeManagement.Models\obj\Debug\net6.0\EmployeeManagement.Models.AssemblyInfoInputs.cache
+G:\Training Projects\EmployeeManagment-Blazor\EmployeeManagement.Models\obj\Debug\net6.0\EmployeeManagement.Models.AssemblyInfo.cs
+G:\Training Projects\EmployeeManagment-Blazor\EmployeeManagement.Models\obj\Debug\net6.0\EmployeeManagement.Models.csproj.CoreCompileInputs.cache
+G:\Training Projects\EmployeeManagment-Blazor\EmployeeManagement.Models\obj\Debug\net6.0\EmployeeManagement.Models.dll
+G:\Training Projects\EmployeeManagment-Blazor\EmployeeManagement.Models\obj\Debug\net6.0\ref\EmployeeManagement.Models.dll
+G:\Training Projects\EmployeeManagment-Blazor\EmployeeManagement.Models\obj\Debug\net6.0\EmployeeManagement.Models.pdb

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "3V6XVGHL82q8zbnOw4WLM81ZCP51TnQoFXRIemMY58Q=",
+  "Source": "APP.Component",
+  "BasePath": "_content/APP.Component",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "APP.Component\\wwwroot",
+      "Source": "APP.Component",
+      "ContentRoot": "G:\\Training Projects\\EmployeeManagment-Blazor\\APP.Component\\wwwroot\\",
+      "BasePath": "_content/APP.Component",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "G:\\Training Projects\\EmployeeManagment-Blazor\\APP.Component\\obj\\Debug\\net6.0\\scopedcss\\bundle\\APP.Component.styles.css",
+      "SourceId": "APP.Component",
+      "SourceType": "Computed",
+      "ContentRoot": "G:\\Training Projects\\EmployeeManagment-Blazor\\APP.Component\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/APP.Component",
+      "RelativePath": "APP.Component.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "G:\\Training Projects\\EmployeeManagment-Blazor\\APP.Component\\obj\\Debug\\net6.0\\scopedcss\\bundle\\APP.Component.styles.css"
+    },
+    {
+      "Identity": "G:\\Training Projects\\EmployeeManagment-Blazor\\APP.Component\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\APP.Component.bundle.scp.css",
+      "SourceId": "APP.Component",
+      "SourceType": "Computed",
+      "ContentRoot": "G:\\Training Projects\\EmployeeManagment-Blazor\\APP.Component\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/APP.Component",
+      "RelativePath": "APP.Component.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "G:\\Training Projects\\EmployeeManagment-Blazor\\APP.Component\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\APP.Component.bundle.scp.css"
+    },
+    {
+      "Identity": "G:\\Training Projects\\EmployeeManagment-Blazor\\APP.Component\\wwwroot\\background.png",
+      "SourceId": "APP.Component",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Training Projects\\EmployeeManagment-Blazor\\APP.Component\\wwwroot\\",
+      "BasePath": "_content/APP.Component",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "G:\\Training Projects\\EmployeeManagment-Blazor\\APP.Component\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "APP.Component",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Training Projects\\EmployeeManagment-Blazor\\APP.Component\\wwwroot\\",
+      "BasePath": "_content/APP.Component",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}
