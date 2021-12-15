@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Components.Forms;
 
-namespace PragimTech.Components
+namespace APP.Component
 {
     public class CustomInputSelect<TValue> : InputSelect<TValue>
     {
